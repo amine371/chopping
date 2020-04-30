@@ -1,0 +1,29 @@
+body {
+  background-color: lightblue;
+}
+header {
+  position: sticky;
+  top: 0;
+  padding: 0 40px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+
+}
+.shopping {
+  font-weight: 550;
+  font-size: 14px;
+  margin: 23px 0px;
+  padding: 0 12px;
+      text-align: center;
+
+}
+
+.table
+ { text-align: center;
+  border: solid;
+}
+.img {
+	largeur :100 px;
+	hauteur : 100 px ;
+	marge en bas : 15 px ;
